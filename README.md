@@ -1,2 +1,3 @@
 # Tutorial
-My first git
+My first git respository
+Author-- Yash Dixit
